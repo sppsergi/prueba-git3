@@ -3,4 +3,9 @@ Hola que tal?
 
 Hola soy Manu
 
+<<<<<<< HEAD
 Hola soy la rama de Manu
+=======
+
+Hola soy la Rama de Sergi
+>>>>>>> ramaSergi
